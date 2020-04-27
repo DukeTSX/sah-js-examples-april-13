@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "..\\sah-april24"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\Desktop\\VSCode\\Greenfox\\harmadik"
+		},
+		{
+			"path": "..\\..\\..\\Desktop\\VSCode\\Greenfox\\negyedik\\dist"
+		},
+		{
+			"path": "..\\..\\..\\Desktop\\VSCode\\Greenfox\\otodik\\dist"
+		},
+		{
+			"path": "..\\..\\..\\Desktop\\VSCode\\Greenfox\\hatodik\\dist"
+		},
+		{
+			"path": "..\\..\\..\\Desktop\\VSCode\\Greenfox\\3-7"
+		},
+		{
+			"path": "..\\..\\..\\Desktop\\VSCode\\Greenfox\\3-9"
+		},
+		{
+			"path": "..\\..\\..\\Desktop\\VSCode\\Greenfox\\3-10"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "3-10"
+	}
+}
